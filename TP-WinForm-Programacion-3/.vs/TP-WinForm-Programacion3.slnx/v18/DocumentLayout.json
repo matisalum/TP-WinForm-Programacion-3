@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mati\\OneDrive\\Desktop\\TP WinForm\\TP-WinForm-Programacion-3\\TP-WinForm-Programacion-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FAE867-23BC-4F11-9BDD-FC40A2A11276}|TP-WinForm-Programacion3\\TP-WinForm-Programacion3.csproj|c:\\users\\mati\\onedrive\\desktop\\tp winform\\tp-winform-programacion-3\\tp-winform-programacion-3\\tp-winform-programacion3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62FAE867-23BC-4F11-9BDD-FC40A2A11276}|TP-WinForm-Programacion3\\TP-WinForm-Programacion3.csproj|solutionrelative:tp-winform-programacion3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FAE867-23BC-4F11-9BDD-FC40A2A11276}|TP-WinForm-Programacion3\\TP-WinForm-Programacion3.csproj|c:\\users\\mati\\onedrive\\desktop\\tp winform\\tp-winform-programacion-3\\tp-winform-programacion-3\\tp-winform-programacion3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FAE867-23BC-4F11-9BDD-FC40A2A11276}|TP-WinForm-Programacion3\\TP-WinForm-Programacion3.csproj|solutionrelative:tp-winform-programacion3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mati\\OneDrive\\Desktop\\TP WinForm\\TP-WinForm-Programacion-3\\TP-WinForm-Programacion-3\\TP-WinForm-Programacion3\\Form1.cs",
+              "RelativeDocumentMoniker": "TP-WinForm-Programacion3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mati\\OneDrive\\Desktop\\TP WinForm\\TP-WinForm-Programacion-3\\TP-WinForm-Programacion-3\\TP-WinForm-Programacion3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP-WinForm-Programacion3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T22:19:23.639Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mati\\OneDrive\\Desktop\\TP WinForm\\TP-WinForm-Programacion-3\\TP-WinForm-Programacion-3\\TP-WinForm-Programacion3\\Program.cs",
+              "RelativeDocumentMoniker": "TP-WinForm-Programacion3\\Program.cs",
+              "ToolTip": "C:\\Users\\Mati\\OneDrive\\Desktop\\TP WinForm\\TP-WinForm-Programacion-3\\TP-WinForm-Programacion-3\\TP-WinForm-Programacion3\\Program.cs",
+              "RelativeToolTip": "TP-WinForm-Programacion3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T22:19:21.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
